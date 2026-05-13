@@ -25,6 +25,7 @@ os: 운영체제 독립적 파일 경로 제어
    pip install pandas matplotlib
 
 2. 코드 실행
+
    예: 요일별 사고 추이 분석
    
    python src/가해자_법규위반.py
