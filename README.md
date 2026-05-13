@@ -34,6 +34,7 @@ os: 운영체제 독립적 파일 경로 제어
 ```
 Traffic_Accident_Analysis_2023/
 ├── data/           # 원본 데이터 (CSV)
+├── docs/           # 프로젝트 관련 문서 (PDF)
 ├── src/            # 분석 소스 코드 (.py)
 └── README.md       # 프로젝트 설명서
 ```
