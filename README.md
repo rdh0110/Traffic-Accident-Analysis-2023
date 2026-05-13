@@ -31,6 +31,7 @@ os: 운영체제 독립적 파일 경로 제어
    python src/가해자_법규위반.py
 
 # 📂 폴더 구조
+```
 Traffic-Accident-Analysis-2023/
 
 ├── data/           # 원본 데이터 (CSV)
@@ -38,6 +39,7 @@ Traffic-Accident-Analysis-2023/
 ├── src/            # 분석 소스 코드 (.py)
 
 └── README.md       # 프로젝트 설명서
+```
 
 # 🎯 만든 이유 및 목표
 - **Project Upgrade**: 대학 재학 시절 진행했던 기초 분석 프로젝트를 현재의 시점에서 다시 검토하고, 고도화했습니다.
