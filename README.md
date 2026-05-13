@@ -6,6 +6,7 @@
 - Python
 - GitHub
 
+
 - Pandas: 데이터 로드 및 전처리
 
 - Matplotlib: 데이터 시각화 (그래프 생성)
