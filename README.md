@@ -32,8 +32,11 @@ os: 운영체제 독립적 파일 경로 제어
 
 # 📂 폴더 구조
 Traffic-Accident-Analysis-2023/
+
 ├── data/           # 원본 데이터 (CSV)
+
 ├── src/            # 분석 소스 코드 (.py)
+
 └── README.md       # 프로젝트 설명서
 
 # 🎯 만든 이유 및 목표
