@@ -23,7 +23,7 @@ os: 운영체제 독립적 파일 경로 제어
 1. **필수 라이브러리 설치**
    ```bash
    pip install pandas matplotlib
-
+   ```
 2. 코드 실행
 
    예: 요일별 사고 추이 분석
